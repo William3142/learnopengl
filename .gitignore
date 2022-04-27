@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+/.vs
+/learnopengl/x64/Debug/learnopengl.tlog
+/learnopengl/x64/Debug
+/learnopengl.vcxproj.user
+/learnopengl.vcxproj.filters
+/learnopengl.vcxproj
+/learnopengl.sln
+/x64/Debug/learnopengl.pdb
+/learnopengl/learnopengl.vcxproj.user
+/learnopengl/learnopengl.vcxproj.filters
+/learnopengl/learnopengl.vcxproj
+/learnopengl/stb_image.h
+/learnopengl/stb_image.cpp
